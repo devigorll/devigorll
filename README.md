@@ -3,7 +3,7 @@
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.cruzll/)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=devigorll&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=devigorll&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devigorll&layout=compact)
 
 ## Tecnologias utilizadas por mim 
 
