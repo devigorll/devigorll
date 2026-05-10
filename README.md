@@ -1,6 +1,6 @@
 ### Olá, eu sou o Igor Cruz! 😁
 
-[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-cruz-184555330/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/igor-cruz-184555330/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.cruzll/)
 
 <div style="display: inline-block"><br/>
