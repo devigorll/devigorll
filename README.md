@@ -38,3 +38,7 @@ Estudante de **Ciência de Dados** na FATEC Jundiaí e profissional com experiê
 
 ### 📫 Conecte-se comigo
 Sinta-se à vontade para me mandar uma mensagem no [LinkedIn](https://www.linkedin.com/in/igor-cruz-184555330/) para trocar ideias sobre TI, Ciência de Dados ou novos projetos!
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devigorll&theme=youtube-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
