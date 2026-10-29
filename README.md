@@ -41,5 +41,4 @@ Sinta-se à vontade para me mandar uma mensagem no [LinkedIn](https://www.linked
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devigorll&theme=youtube-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
